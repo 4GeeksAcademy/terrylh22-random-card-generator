@@ -36,5 +36,6 @@ window.onload = function() {
     bottomRowElement.classList.add("red-text");
     topRowElement.classList.add("red-text");
     middleRowElement.classList.add("red-text");
+    
   }
 }
